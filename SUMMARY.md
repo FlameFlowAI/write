@@ -2,6 +2,6 @@
 
 * Chapter One
    * Something
-* chart 1
+* Chapter Two
    * first
 
