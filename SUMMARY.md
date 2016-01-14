@@ -7,9 +7,9 @@
    * [写些什么呢?](Chapter1/write_about_what.md)
    * [怎么开始写？](Chapter1/how_to_start_writing.md)
    * [刻意练习写](Chapter1/practice_writing_deliberately.md)
+   * [Just write if you like.](Chapter1/just_write_if_you_like.md)
    * [Writing is nice](Chapter1/writing.md)
    * [GitBook is nice](Chapter1/gitbook.md)
-   * [Just write if you like.](Chapter1/just_write_if_you_like.md)
 * [Chapter 2](Chapter2/README.md)
    * [Write something](Chapter2/write_something.md)
 
