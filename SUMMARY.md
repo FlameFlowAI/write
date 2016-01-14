@@ -17,5 +17,4 @@
 * [Chapter 3 Improve writing](Chapter3/readmemdd.md)
    * [Read more](Chapter3/read_more.md)
    * [Writing skills](Chapter3/writing_skills.md)
-   * Write tools
 
