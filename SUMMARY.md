@@ -15,7 +15,7 @@
    * [Enjoy writing](Chapter2/enjoy_writing.md)
    * [Write something](Chapter2/write_something.md)
    * [Write untill die](Chapter2/write_untill_die.md)
-* [Chapter 3 Improve writing](Chapter3/README.mdd)
+* [Chapter 3 Improve writing](Chapter3/readmemdd.md)
    * [Read more](Chapter3/read_more.md)
    * [Writing skills](Chapter3/writing_skills.md)
 
