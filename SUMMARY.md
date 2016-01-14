@@ -14,4 +14,5 @@
    * [Writing is a kind of enjoyment.](Chapter1/writing_is_a_kind_of_enjoyment.md)
    * [Enjoy writing](Chapter2/enjoy_writing.md)
    * [Write something](Chapter2/write_something.md)
+* Chapter 2
 
