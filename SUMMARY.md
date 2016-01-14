@@ -7,6 +7,7 @@
    * [怎么开始写？](Chapter1/how_to_start_writing.md)
    * [Writing is nice](Chapter1/writing.md)
    * [GitBook is nice](Chapter1/gitbook.md)
+   * Write or die?
 * [Chapter 2](Chapter2/README.md)
    * [Write something](Chapter2/write_something.md)
 
