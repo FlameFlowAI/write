@@ -1,4 +1,4 @@
-# 为什么开始写?
+# Writ for what?
 
 Call of duty.  
 Call from soul.
