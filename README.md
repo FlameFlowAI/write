@@ -1,3 +1,4 @@
 # Enjoy writing with GitBook
-
-Write something, anything
+Write something, anything.
+Enjoy writing.
+Writing in gitbook is good.
