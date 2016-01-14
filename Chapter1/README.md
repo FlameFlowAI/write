@@ -1,2 +1,2 @@
 # Chapter1
-  Write with gitbook
+  Write with GitBook
