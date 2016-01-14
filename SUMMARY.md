@@ -17,5 +17,5 @@
    * [Write untill die](Chapter2/write_untill_die.md)
 * [Chapter 3 Improve writing](Chapter3/README.mdd)
    * [Read more](Chapter3/read_more.md)
-   * Writing skills
+   * [Writing skills](Chapter3/writing_skills.md)
 
