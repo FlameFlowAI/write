@@ -2,4 +2,6 @@
 
 Write must have topic?  
 Written behind closed doors, open the door to change，Hawkins  
-写给自己的文字，大部分写给自己，只有当自己写的对别人也有用时，修改成发表的版本
+I wrote for myself most of time.
+Only when What I write is also useful for others,
+Modified released version base on myself version
