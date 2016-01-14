@@ -10,6 +10,7 @@
    * [Write or die?](Chapter1/write_or_die.md)
    * [Writing is nice](Chapter1/writing.md)
    * [GitBook is nice](Chapter1/gitbook.md)
+   * Writing is a kind of enjoyment.
 * [Chapter 2](Chapter2/README.md)
    * [Write something](Chapter2/write_something.md)
 
