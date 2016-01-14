@@ -1,3 +1,3 @@
 # Write untill die
 
-活到老，学到老，写到老
+It is never too late to learn and wrote
