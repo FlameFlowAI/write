@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Chapter 1](Chapter1/README.md)
+* [Chapter 1 start writing](Chapter1/README.md)
    * [Write for what?](Chapter1/Write_for_what.md)
    * [Write about what?](Chapter1/write_about_what.md)
    * [How to start writing？](Chapter1/how_to_start_writing.md)
