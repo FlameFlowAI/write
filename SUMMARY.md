@@ -5,7 +5,7 @@
    * [Write for what?](Chapter1/Write_for_what.md)
    * [Write or die?](Chapter1/write_or_die.md)
    * [Write about what?](Chapter1/write_about_what.md)
-   * [怎么开始写？](Chapter1/how_to_start_writing.md)
+   * [How to start writing？](Chapter1/how_to_start_writing.md)
    * [刻意练习写](Chapter1/practice_writing_deliberately.md)
    * [Just write if you like.](Chapter1/just_write_if_you_like.md)
    * [Writing is nice](Chapter1/writing.md)
