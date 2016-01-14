@@ -1,4 +1,4 @@
 # Read more
 
-学到老，读到老  
+It is never too late to read
 读是一种享受
