@@ -1,4 +1,4 @@
-# 刻意练习写
+# Practice writing deliberately
 
 Ten thousand hours Law
 Stream of consciousness writing
