@@ -1,5 +1,5 @@
 # Writing skills
 
-填空题
-选择题
-发散思维
+Fill in the blanks  
+Choice questions  
+divergent thinking
