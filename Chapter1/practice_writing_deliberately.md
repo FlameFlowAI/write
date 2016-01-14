@@ -1,6 +1,6 @@
 # 刻意练习写
 
-一万小时定律  
-意识流写作  
-自由写作
-七天为一周期，七个周期，培养写的习惯
+Ten thousand hours Law
+Stream of consciousness writing
+Freelance Writing
+Seven days for a period of seven cycles, cultivate habit of writing
