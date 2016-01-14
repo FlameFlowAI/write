@@ -14,6 +14,7 @@
    * [Writing is a kind of enjoyment.](Chapter2/writing_is_a_kind_of_enjoyment.md)
    * [Enjoy writing](Chapter2/enjoy_writing.md)
    * [Write something](Chapter2/write_something.md)
+   * Write untill die
 * [Chapter 3 Improve writing](Chapter3/README.mdd)
    * [Read more](Chapter3/read_more.md)
 
