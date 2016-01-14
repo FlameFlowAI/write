@@ -1,7 +1,7 @@
 # 开始写吧 我与写作的故事
 
 1. 开始写吧 
-2. 我与写的故事
+2. My 
 3. 记录写作困惑
 
 Enjoy writing with GitBook
