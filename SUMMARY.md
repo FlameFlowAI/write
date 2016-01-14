@@ -15,5 +15,5 @@
    * [Enjoy writing](Chapter2/enjoy_writing.md)
    * [Write something](Chapter2/write_something.md)
 * [Chapter 3](chapter3.md)
-   * Read more
+   * [Read more](read_more.md)
 
