@@ -2,6 +2,6 @@
 
 1. Start writing right now 
 2. My writing story
-3. Record Writing confused
+3. Record my confusion about writing 
 4. My writing plan
-5. Enjoy writing
+5. Pleasure in writing
