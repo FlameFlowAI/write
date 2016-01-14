@@ -1,3 +1,3 @@
-# Chapter One
+# Writing is good
 
 Writing is good.
