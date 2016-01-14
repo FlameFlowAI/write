@@ -9,6 +9,7 @@
    * [刻意练习写](Chapter1/practice_writing_deliberately.md)
    * [Writing is nice](Chapter1/writing.md)
    * [GitBook is nice](Chapter1/gitbook.md)
+   * Just write if you like.
 * [Chapter 2](Chapter2/README.md)
    * [Write something](Chapter2/write_something.md)
 
