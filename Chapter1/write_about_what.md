@@ -1,4 +1,4 @@
-# 写些什么呢?
+# Write about what?
 
 Write must have topic?  
 Written behind closed doors, open the door to change，Hawkins  
