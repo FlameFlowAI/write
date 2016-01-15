@@ -2,10 +2,10 @@
 
   Start writing  
   Who: I and Jane  
-  Why  
-  What  
+  Why: For myself first  
+  What: About writing  
   Where  
   When  
-  How
+  How: Step by step
   
   Plan
