@@ -26,9 +26,9 @@
     // Global configuration for plugins
     "pluginsConfig": {
         "fontSettings": {
-            "theme": "sepia", "night" or "white",
-            "family": "serif" or "sans",
-            "size": 1 to 4
+            "theme": "sepia"
+            "family": "serif"
+            "size": 2
         }
     },
 
@@ -39,7 +39,7 @@
     "links": {
         // Custom links at top of sidebar
         "sidebar": {
-            "Custom link name": "https://customlink.com"
+            "Custom link name": null
         },
 
         // Sharing links
