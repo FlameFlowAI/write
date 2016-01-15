@@ -1,15 +1,10 @@
 {
-
     "output": null,
-
     "generator": "site",
-
     "title": null,
     "description": null,
     "isbn": null,
-
     "extension": null,
-
     "plugins": [],
 
     "pluginsConfig": {
@@ -19,28 +14,20 @@
             "size": 2
         }
     },
-
     "variables": {},
-
     "links": {
-
         "sidebar": {
             "Custom link name": null
         },
-
         "sharing": {
             "google": null,
             "facebook": null,
             "twitter": null,
             "weibo": true,
-            "qq": true,
-            "weixin": true,
             "all": null
         }
     },
-
     "pdf": {
-
         "pageNumbers": false,
         "fontSize": 12,
         "paperSize": "a4",
