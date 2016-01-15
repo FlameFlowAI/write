@@ -2,3 +2,4 @@
 
 Call of duty.  
 Call from soul.
+Write for myself
