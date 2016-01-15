@@ -1,10 +1,11 @@
 # Chapter1 Start writing
 
   Start writing  
-  Who  
+  Who: I and Jane  
   Why  
   What  
   Where  
   When  
-  How  
+  How
+  
   Plan
