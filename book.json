@@ -26,8 +26,8 @@
     // Global configuration for plugins
     "pluginsConfig": {
         "fontSettings": {
-            "theme": "sepia"
-            "family": "serif"
+            "theme": "sepia",
+            "family": "serif",
             "size": 2
         }
     },
